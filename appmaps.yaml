@@ -1,0 +1,5 @@
+payload:
+- DOMAIN-SUFFIX,ls.apple.com,Apple-Maps
+- DOMAIN,api.smoot.apple.com,Apple-Maps
+- DOMAIN,api.smoot.apple.cn,Apple-Maps
+- DOMAIN,gs-loc.apple.com,Apple-Maps
